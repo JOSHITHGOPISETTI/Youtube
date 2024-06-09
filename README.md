@@ -1,6 +1,7 @@
 # Simple React JS Project
+## Live Application URL
+### https://demoyoutudeclone.netlify.app/
 ## Prerequisites
-
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
 
@@ -10,11 +11,6 @@ Install create-react-app npm package globally. This will help to easily run the 
 ```bash
 npm install -g create-react-app
 ```
-## Live Application URL
-
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
-
-Click on the link to see the application
 
 ## Cloning and Running the Application in local
 
