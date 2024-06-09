@@ -1,9 +1,5 @@
 # Simple React JS Project
 ## Live Application URL
-
-### https://demoyoutudeclone.netlify.app/
-This URL has the application deployed in
-
 ## Prerequisites
 
 ### Install Node JS
