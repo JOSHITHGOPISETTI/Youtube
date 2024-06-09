@@ -1,5 +1,4 @@
 # Simple React JS Project
-## Live Application URL
 ## Prerequisites
 
 ### Install Node JS
